@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-The repository of learning!
+I like compsci, math, and drumming.
